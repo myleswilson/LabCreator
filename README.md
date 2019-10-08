@@ -1,2 +1,4 @@
 # LabCreator
 Makes creating files for C++ labs easier.
+
+WHEN RUNNING FOR THE FIRST TIME, YOU MUST OPEN THE SCRIPT AND ENTER YOUR COURSE NAME!
