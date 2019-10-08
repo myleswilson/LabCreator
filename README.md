@@ -1,6 +1,8 @@
 # LabCreator
 Creator: Myles Wilson
+
 Last Update: 10/08/2019
+
 Makes creating files for C++ labs easier.
 
 WHEN RUNNING FOR THE FIRST TIME, YOU MUST OPEN THE SCRIPT AND ENTER YOUR COURSE NAME!
